@@ -1,6 +1,8 @@
 <h1 align="center">Welcome👋, I'm Layheng HOK</h1>
 <h3 align="center">aka fanxychild</h3>
 
+<img align='right' src='https://github.com/Layheng-Hok/Layheng-Hok/blob/main/img/gin.webp' width='350px'>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=layheng-hok&label=Profile%20views&color=0e75b6&style=flat" alt="layheng-hok" /> </p>
 
 <h3 align="left">Basic Info and Portfolio:</h3>
