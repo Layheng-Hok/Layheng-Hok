@@ -20,7 +20,7 @@
 <summary>Buy me drink🥤</summary>
 
 | WeChat Pay | Alipay | 
-| :----: | :--: |
+| :---: | :---: |
 | ![](https://github.com/Layheng-Hok/Layheng-Hok/blob/main/resource/wechatpay.png) | ![](https://github.com/Layheng-Hok/Layheng-Hok/blob/main/resource/alipay.jpg) |
 
 </details>
