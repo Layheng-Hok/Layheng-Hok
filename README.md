@@ -17,7 +17,7 @@
       
 📧 Reach me at **12210736@mail.sustech.edu.cn**
 <details>
-<summary>Buy me drink🥤</summary>
+<summary>Buy me a drink🥤</summary>
 
 | WeChat Pay | Alipay | 
 | :---: | :---: |
