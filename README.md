@@ -1,4 +1,4 @@
-<h1 align="center">Welcome👋, I'm Layheng HOK</h1>
+<h1 align="center">Welcome👋, I'm HOK Layheng</h1>
 <h3 align="center">aka fanxychild</h3>
 
 <img align='right' src='https://github.com/Layheng-Hok/Layheng-Hok/blob/main/resource/gin.webp' width='330px'>  
