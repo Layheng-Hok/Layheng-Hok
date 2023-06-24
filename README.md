@@ -34,7 +34,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=layheng-hok&show_icons=true&locale=en&theme=tokyonight" alt="layheng-hok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=layheng-hok&&theme=tokyonight" alt="layheng-hok" /></p>
+
+![snake gif](https://github.com/layheng-hok/layheng-hok/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
