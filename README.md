@@ -1,4 +1,8 @@
-<h1 align="center">Welcome👋, I'm HOK Layheng</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;+I'm+HOK+Layheng!;&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">aka fanxychild</h3>
 
 <img align='right' src='https://github.com/Layheng-Hok/Layheng-Hok/blob/main/resource/gin.webp' width='330px'>  
