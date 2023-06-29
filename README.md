@@ -19,7 +19,7 @@
 + Other Projects:
     - [Anime Shopping Website](https://github.com/Layheng-Hok/Anime-Shopping-Website)
       
-📧 Reach me at **12210736@mail.sustech.edu.cn**
+📧 Reach me via **12210736@mail.sustech.edu.cn**
 <details>
 <summary>Buy me a drink🥤</summary>
 
