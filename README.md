@@ -41,6 +41,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=layheng-hok&&theme=tokyonight" alt="layheng-hok" /></p>
 
 ![snake gif](https://github.com/layheng-hok/layheng-hok/blob/output/github-contribution-grid-snake.svg)
+
+<p align="right">
+<a href="#top">
+<img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=563d7c&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=563d7c&height=80&section=footer"/>
