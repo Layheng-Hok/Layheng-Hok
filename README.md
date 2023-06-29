@@ -42,5 +42,5 @@
 ![snake gif](https://github.com/layheng-hok/layheng-hok/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=563d7c&height=80&section=footer"/>
 </p>
