@@ -34,13 +34,6 @@
       <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="41" height="41"/>
     </a>
   </p>
-  
-<h3 align="left">● Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=layheng-hok&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="layheng-hok" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=layheng-hok&show_icons=true&locale=en&theme=tokyonight" alt="layheng-hok" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=layheng-hok&&theme=tokyonight" alt="layheng-hok" /></p>
 
 <details>
 <summary>Buy me a drink🥤</summary>
