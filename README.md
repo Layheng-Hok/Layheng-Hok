@@ -12,7 +12,7 @@
 
 <h3 align="left">● Basic Info and Portfolio:</h3>
 
-🌱 Freshman UG [@SUSTech](https://www.sustech.edu.cn/en/) <br>
+🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/en/) <br>
 ✨ I'm interested in software engineering and implementing AI/ML into automated testing    
 👨‍💻 Projects
 + SUSTech Projects (Full Score):
