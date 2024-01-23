@@ -17,6 +17,7 @@
 👨‍💻 Projects
 + SUSTech Projects (Full Score):
     - [(CS109) Jungle Chess](https://github.com/Layheng-Hok/Jungle-Chess)
+    - [(CS207) Digital Piano](https://github.com/Layheng-Hok/Digital-Piano)
 + Other Projects:
     - [Anime Shopping Website](https://github.com/Layheng-Hok/Anime-Shopping-Website)
       
