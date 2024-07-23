@@ -15,9 +15,11 @@
 🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/en/) <br>
 ✨ I'm interested in software engineering and implementing AI/ML into automated testing    
 👨‍💻 Projects
-+ SUSTech Projects (Full Score):
++ SUSTech Projects:
     - [(CS109) Jungle Chess](https://github.com/Layheng-Hok/Jungle-Chess)
     - [(CS207) Digital Piano](https://github.com/Layheng-Hok/Digital-Piano)
+    - [(CS307) Shenzhen Metro](https://github.com/Layheng-Hok/Shenzhen-Metro)
+    - [(CS202) RISC-V CPU](https://github.com/Layheng-Hok/RISC-V-CPU)
 + Other Projects:
     - [Anime Shopping Website](https://github.com/Layheng-Hok/Anime-Shopping-Website)
       
@@ -25,29 +27,41 @@
 
 <h3 align="left">● Languages and Frameworks:</h3>
   <p align="left">
+    <a href="https://riscv.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="risc-v" width="40" height="40"/> 
+    </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="41" height="41"/> 
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="41" height="41"/>
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="40"/> 
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
     <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-      <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="41" height="41"/>
+      <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/>
     </a>
   </p>
 
 <h3 align="left">● Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=layheng-hok&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="layheng-hok" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=layheng-hok&show_icons=true&locale=en&theme=tokyonight" alt="layheng-hok" /></p>
-
-<details>
-<summary>Buy me a drink🥤</summary>
-
-| WeChat Pay | Alipay | 
-| :---: | :---: |
-| ![](https://github.com/Layheng-Hok/Layheng-Hok/blob/main/resource/wechatpay.png) | ![](https://github.com/Layheng-Hok/Layheng-Hok/blob/main/resource/alipay.jpg) |
-
-</details>
 
 <p align="right">
   <a href="#top">
