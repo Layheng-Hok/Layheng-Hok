@@ -63,6 +63,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=layheng-hok&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="layheng-hok" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=layheng-hok&show_icons=true&locale=en&theme=tokyonight" alt="layheng-hok" /></p>
 
+![snake gif](https://github.com/layheng-hok/layheng-hok/blob/output/github-contribution-grid-snake.svg)
+
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/static/v1?label&message=^&color=563d7c&style=for-the-badge&logo" alt="Back to Top" />
