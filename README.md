@@ -12,8 +12,8 @@
 
 <h3 align="left">● Basic Info and Portfolio:</h3>
 
-🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/en/) <br>
-✨ I'm interested in software engineering and implementing AI/ML into automated testing    
+🌱 Junior UG [@SUSTech](https://www.sustech.edu.cn/en/) <br>
+✨ I'm interested in software engineering, software testing, software security, and integration of AI in software development    
 👨‍💻 Projects
 + SUSTech Projects:
     - [(CS109) Jungle Chess](https://github.com/Layheng-Hok/Jungle-Chess)
