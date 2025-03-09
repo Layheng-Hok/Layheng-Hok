@@ -10,22 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=layheng-hok&label=Profile%20views&color=0e75b6&style=flat" alt="layheng-hok" /> </p>
 
-<h3 align="left">● Basic Info and Portfolio:</h3>
+<h3 align="left">● About Me</h3>
 
-🌱 Junior CompSci [@SUSTech](https://www.sustech.edu.cn/en/) supervised by [HAO Qi](https://faculty.sustech.edu.cn/?tagid=haoq&iscss=1&snapid=1&orderby=date&go=2&lang=en) <br>
-✨ Interested in applications of maching learning in autonomous systems  
-👨‍💻 Projects
-+ SUSTech Projects:
-    - [(CS109) Jungle Chess](https://github.com/Layheng-Hok/Jungle-Chess)
-    - [(CS207) Digital Piano](https://github.com/Layheng-Hok/Digital-Piano)
-    - [(CS307) Shenzhen Metro](https://github.com/Layheng-Hok/Shenzhen-Metro)
-    - [(CS202) RISC-V CPU](https://github.com/Layheng-Hok/RISC-V-CPU)
-+ Other Projects:
-    - [Anime Shopping Website](https://github.com/Layheng-Hok/Anime-Shopping-Website)
-      
+🌱 CompSci Junior [@SUSTech](https://www.sustech.edu.cn/en/) supervised by [HAO Qi](https://faculty.sustech.edu.cn/?tagid=haoq&iscss=1&snapid=1&orderby=date&go=2&lang=en) <br>
+✨ Interested in applications of maching learning in autonomous systems   
 📧 Reach me via **12210736@mail.sustech.edu.cn**
 
-<h3 align="left">● Languages and Frameworks:</h3>
+<h3 align="left">● Languages and Frameworks</h3>
   <p align="left">
     <a href="https://riscv.org/" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="risc-v" width="40" height="40"/> 
@@ -59,11 +50,30 @@
     </a>
   </p>
 
-<h3 align="left">● Stats:</h3>
+<h3 align="left">● Portfolio</h3>
+<details>
+<summary>View details</summary>
+  
++ SUSTech Projects:
+    - [(CS109) Jungle Chess](https://github.com/Layheng-Hok/Jungle-Chess)
+    - [(CS202) RISC-V CPU](https://github.com/Layheng-Hok/RISC-V-CPU)
+    - [(CS207) Digital Piano](https://github.com/Layheng-Hok/Digital-Piano)
+    - [(CS303) Information Exposure Maximization Problem](https://github.com/Layheng-Hok/Information-Exposure-Maximization)
+    - [(CS303) Knowledge Graph-Based Recommender System](https://github.com/Layheng-Hok/KG-Based-Recommender-System)
+    - [(CS307) Shenzhen Metro](https://github.com/Layheng-Hok/Shenzhen-Metro)
+    - [(CS309) SUSSYCourses](https://github.com/Layheng-Hok/SUSSYCourses)
+    
++ Other Projects:
+    - [Anime Shopping Website](https://github.com/Layheng-Hok/Anime-Shopping-Website)
+
+</details>
+
+<h3 align="left">● Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=layheng-hok&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="layheng-hok" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=layheng-hok&show_icons=true&locale=en&theme=tokyonight" alt="layheng-hok" /></p>
 
 ![snake gif](https://github.com/layheng-hok/layheng-hok/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=layheng-hok&show_icons=true&locale=en&theme=tokyonight" alt="layheng-hok" /></p>
 
 <p align="right">
   <a href="#top">
