@@ -12,7 +12,7 @@
 
 <h3 align="left">● Basic Info and Portfolio:</h3>
 
-🌱 Junior UG [@SUSTech](https://www.sustech.edu.cn/en/) supervised by [HAO Qi](https://faculty.sustech.edu.cn/?tagid=haoq&iscss=1&snapid=1&orderby=date&go=2&lang=en) <br>
+🌱 Junior CompSci [@SUSTech](https://www.sustech.edu.cn/en/) supervised by [HAO Qi](https://faculty.sustech.edu.cn/?tagid=haoq&iscss=1&snapid=1&orderby=date&go=2&lang=en) <br>
 ✨ Interested in applications of maching learning in autonomous systems  
 👨‍💻 Projects
 + SUSTech Projects:
