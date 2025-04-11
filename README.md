@@ -84,7 +84,8 @@
     - [(CS307) Shenzhen Metro](https://github.com/Layheng-Hok/Shenzhen-Metro)
     - [(CS309) SUSSYCourses](https://github.com/Layheng-Hok/SUSSYCourses)
     
-+ Other Projects:
++ Open Source and Other Projects:
+    - [WindowPet](https://github.com/SeakMengs/WindowPet)
     - [Anime Shopping Website](https://github.com/Layheng-Hok/Anime-Shopping-Website)
 
 </details>
