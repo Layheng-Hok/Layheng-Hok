@@ -83,7 +83,7 @@
     - [(CS303) Knowledge Graph-Based Recommender System](https://github.com/Layheng-Hok/KG-Based-Recommender-System)
     - [(CS307) Shenzhen Metro](https://github.com/Layheng-Hok/Shenzhen-Metro)
     - [(CS309) SUSSYCourses](https://github.com/Layheng-Hok/SUSSYCourses)
-    - [(CS309) LLM-Detective](https://github.com/Layheng-Hok/LLM-Detective)
+    - [(CS310) LLM-Detective](https://github.com/Layheng-Hok/LLM-Detective)
     
 + Open Source and Other Projects:
     - [WindowPet](https://github.com/SeakMengs/WindowPet)
