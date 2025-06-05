@@ -87,7 +87,7 @@
     
 + Open Source and Other Projects:
     - [WindowPet](https://github.com/SeakMengs/WindowPet)
-    - [Anime Shopping Website](https://github.com/Layheng-Hok/Anime-Shopping-Website)
+    - [Anime D. Store](https://github.com/Layheng-Hok/Anime-Shopping-Website)
 
 </details>
 
