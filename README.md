@@ -16,7 +16,7 @@
 ✨ Interested in applications of maching learning in autonomous systems   
 📧 Reach me via **12210736@mail.sustech.edu.cn**
 
-<h3 align="left">● Tech Arsenal</h3>
+<h3 align="left">● Tech Used</h3>
   <p align="left"> 
     <a href="https://riscv.org/" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="risc-v" width="40" height="40"/> 
