@@ -79,6 +79,7 @@
     - [(CS109) Jungle Chess](https://github.com/Layheng-Hok/Jungle-Chess)
     - [(CS202) RISC-V CPU](https://github.com/Layheng-Hok/RISC-V-CPU)
     - [(CS207) Digital Piano](https://github.com/Layheng-Hok/Digital-Piano)
+    - [(CS302) xv6-signal-handling](https://github.com/Layheng-Hok/xv6-signal-handling)
     - [(CS303) Information Exposure Maximization Problem](https://github.com/Layheng-Hok/Information-Exposure-Maximization)
     - [(CS303) Knowledge Graph-Based Recommender System](https://github.com/Layheng-Hok/KG-Based-Recommender-System)
     - [(CS307) Shenzhen Metro](https://github.com/Layheng-Hok/Shenzhen-Metro)
