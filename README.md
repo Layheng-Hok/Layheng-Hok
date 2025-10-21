@@ -12,8 +12,9 @@
 
 <h3 align="left">● About Me</h3>
 
-CompSci Senior [@SUSTech](https://www.sustech.edu.cn/en/) supervised by [HAO Qi](https://faculty.sustech.edu.cn/?tagid=haoq&iscss=1&snapid=1&orderby=date&go=2&lang=en) <br>
-Interested in applications of maching learning in autonomous systems   
+CompSci Senior [@SUSTech](https://www.sustech.edu.cn/en/)<br>
+Supervised by Professor [HAO Qi](https://faculty.sustech.edu.cn/?tagid=haoq&iscss=1&snapid=1&orderby=date&go=2&lang=en) under [RITAS](https://ritas.sustech.edu.cn/)<br>
+Interested in applications of AI/ML in Autonomous Driving Systems   
 Reach me via **12210736@mail.sustech.edu.cn**
 
 <h3 align="left">● Tech Used</h3>
