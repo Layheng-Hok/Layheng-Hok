@@ -80,12 +80,16 @@ Reach me via **12210736@mail.sustech.edu.cn**
     - [(CS109) Jungle Chess](https://github.com/Layheng-Hok/Jungle-Chess)
     - [(CS202) RISC-V CPU](https://github.com/Layheng-Hok/RISC-V-CPU)
     - [(CS207) Digital Piano](https://github.com/Layheng-Hok/Digital-Piano)
+    - [(CS209A) QQ Farm](https://github.com/Layheng-Hok/QQ-Farm)
+    - [(CS209A) StackOverflow Java Stats](https://github.com/Layheng-Hok/StackOverflow-Java-Stats)
     - [(CS302) xv6-signal-handling](https://github.com/Layheng-Hok/xv6-signal-handling)
     - [(CS303) Information Exposure Maximization Problem](https://github.com/Layheng-Hok/Information-Exposure-Maximization)
     - [(CS303) Knowledge Graph-Based Recommender System](https://github.com/Layheng-Hok/KG-Based-Recommender-System)
     - [(CS307) Shenzhen Metro](https://github.com/Layheng-Hok/Shenzhen-Metro)
     - [(CS309) SUSSYCourses](https://github.com/Layheng-Hok/SUSSYCourses)
-    - [(CS310) LLM-Detective](https://github.com/Layheng-Hok/LLM-Detective)
+    - [(CS310) LLM Detective](https://github.com/Layheng-Hok/LLM-Detective)
+    - [(CS324) jetson-nano-drowsiness-detection](https://github.com/Layheng-Hok/jetson-nano-drowsiness-detection)
+    - [(CS328) SUSTech Merch Store](https://github.com/Layheng-Hok/SUSTech-Merch-Store)
     
 + Open Source and Other Projects:
     - [WindowPet](https://github.com/SeakMengs/WindowPet)
