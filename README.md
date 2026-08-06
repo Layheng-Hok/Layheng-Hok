@@ -88,6 +88,7 @@ Reach me via **12210736@mail.sustech.edu.cn**
     - [(CS310) LLM Detective](https://github.com/Layheng-Hok/LLM-Detective)
     - [(CS324) jetson-nano-drowsiness-detection](https://github.com/Layheng-Hok/jetson-nano-drowsiness-detection)
     - [(CS328) SUSTech Merch Store](https://github.com/Layheng-Hok/SUSTech-Merch-Store)
+    - [(CS491) SAFE: Spatial-temporal Adaptation in Federated Environments for CAV Accident Anticipation under Heterogeneity](https://github.com/Layheng-Hok/SAFE)
     
 + Open Source and Other Projects:
     - [WindowPet](https://github.com/SeakMengs/WindowPet)
