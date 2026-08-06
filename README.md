@@ -82,6 +82,7 @@ Reach me via **12210736@mail.sustech.edu.cn**
     - [(CS209A) StackOverflow Java Stats](https://github.com/Layheng-Hok/StackOverflow-Java-Stats)
     - [(CS302) xv6-signal-handling](https://github.com/Layheng-Hok/xv6-signal-handling)
     - [(CS303) Information Exposure Maximization Problem](https://github.com/Layheng-Hok/Information-Exposure-Maximization)
+    - [(CS304) PeakForm](https://github.com/Jouwy/Peakform)
     - [(CS303) Knowledge Graph-Based Recommender System](https://github.com/Layheng-Hok/KG-Based-Recommender-System)
     - [(CS307) Shenzhen Metro](https://github.com/Layheng-Hok/Shenzhen-Metro)
     - [(CS309) SUSSYCourses](https://github.com/Layheng-Hok/SUSSYCourses)
