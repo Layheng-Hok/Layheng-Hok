@@ -97,7 +97,7 @@ Reach me via **12210736@mail.sustech.edu.cn**
 
 </details>
 
-<h3 align="left">● Stats</h3>
+<!-- <h3 align="left">● Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=layheng-hok&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="layheng-hok" /></p>
 
 ![snake gif](https://github.com/layheng-hok/layheng-hok/blob/output/github-contribution-grid-snake-dark.svg)
@@ -112,4 +112,4 @@ Reach me via **12210736@mail.sustech.edu.cn**
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=563d7c&height=80&section=footer"/>
-</p>
+</p> -->
