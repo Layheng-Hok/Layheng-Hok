@@ -122,16 +122,6 @@ Reach me via **[layheng.hok@tsc.gov.kh](mailto:layheng.hok@tsc.gov.kh)**
   </a>
 </p>
 
-<h4>Networking & Simulation</h4>
-<p align="left">
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/wireshark" alt="wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://info.support.huawei.com/info-finder/encyclopedia/en/eNSP+Pro.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/huawei" alt="huawei-ensp" width="40" height="40"/>
-  </a>
-</p>
-
 <h4>Cloud, Containers & DevOps</h4>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -164,6 +154,16 @@ Reach me via **[layheng.hok@tsc.gov.kh](mailto:layheng.hok@tsc.gov.kh)**
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+</p>
+
+<h4>Networking & Simulation</h4>
+<p align="left">
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/wireshark" alt="wireshark" width="40" height="40"/>
+  </a>
+  <a href="https://info.support.huawei.com/info-finder/encyclopedia/en/eNSP+Pro.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/huawei" alt="huawei-ensp" width="40" height="40"/>
   </a>
 </p>
 
