@@ -1,7 +1,7 @@
 <h1 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=bf91f3&size=30&center=true&vCenter=true&width=500&height=35&lines=Welcome!;+I'm+Hok+Lay+Heng+郝利興!)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=39D353&center=true&vCenter=true&width=435&height=50&lines=%24+cat+readme.md" alt="Typing SVG" />
+  </a>
 </h1>
 
 <img align='right' src='https://github.com/Layheng-Hok/Layheng-Hok/blob/main/resource/gin.webp' width='330px'>  
@@ -10,12 +10,11 @@
 
 <h3 align="left">● About Me</h3>
 
-CompSci graduate from [SUSTech](https://www.sustech.edu.cn/en/)<br>
-Supervised by Professor [HAO Qi](https://faculty.sustech.edu.cn/?tagid=haoq&iscss=1&snapid=1&orderby=date&go=2&lang=en) under [RITAS](https://ritas.sustech.edu.cn/)<br>
-Interested in applications of AI/ML in autonomous driving technologies   
-Reach me via **12210736@mail.sustech.edu.cn**
+CompSci graduate from [SUSTech](https://www.sustech.edu.cn/en/) under Professor [Qi HAO](https://faculty.sustech.edu.cn/?tagid=haoq&iscss=1&snapid=1&orderby=date&go=2&lang=en)<br>
+Software Developer at [Techo Startup Center](https://tsc.gov.kh/)<br>
+Reach me via **layheng.hok@tsc.gov.kh**
 
-<!-- <h3 align="left">● Tech Used</h3>
+<h3 align="left">● Tech Used</h3>
   <p align="left"> 
     <a href="https://riscv.org/" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="risc-v" width="40" height="40"/> 
@@ -68,7 +67,7 @@ Reach me via **12210736@mail.sustech.edu.cn**
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a>
-  </p> -->
+  </p>
 
 <h3 align="left">● Portfolio</h3>
 <details>
@@ -96,6 +95,8 @@ Reach me via **12210736@mail.sustech.edu.cn**
     - [Anime D. Store](https://github.com/Layheng-Hok/Anime-Shopping-Website)
 
 </details>
+
+![snake gif](https://github.com/layheng-hok/layheng-hok/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- <h3 align="left">● Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=layheng-hok&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="layheng-hok" /></p>
