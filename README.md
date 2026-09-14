@@ -127,7 +127,7 @@ Reach me via **[layheng.hok@tsc.gov.kh](mailto:layheng.hok@tsc.gov.kh)**
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/wireshark" alt="wireshark" width="40" height="40"/>
   </a>
-  <a href="https://info.support.huawei.com/info-finder/encyclopedia/en/index.html" target="_blank" rel="noreferrer">
+  <a href="https://info.support.huawei.com/info-finder/encyclopedia/en/eNSP+Pro.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/huawei" alt="huawei-ensp" width="40" height="40"/>
   </a>
 </p>
