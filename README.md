@@ -122,6 +122,16 @@ Reach me via **[layheng.hok@tsc.gov.kh](mailto:layheng.hok@tsc.gov.kh)**
   </a>
 </p>
 
+<h4>Networking & Simulation</h4>
+<p align="left">
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/wireshark" alt="wireshark" width="40" height="40"/>
+  </a>
+  <a href="https://info.support.huawei.com/info-finder/encyclopedia/en/index.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/huawei" alt="huawei-ensp" width="40" height="40"/>
+  </a>
+</p>
+
 <h4>Cloud, Containers & DevOps</h4>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -161,6 +171,9 @@ Reach me via **[layheng.hok@tsc.gov.kh](mailto:layheng.hok@tsc.gov.kh)**
 <p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/opencv" alt="opencv" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging-face" height="40"/>
