@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noreferrer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=39D353&center=true&vCenter=true&width=435&height=50&lines=%24+cat+readme.md" alt="Typing SVG" />
   </a>
 </h1>
@@ -12,9 +12,9 @@
 
 <h3 align="left">● About Me</h3>
 
-CompSci graduate from [SUSTech](https://www.sustech.edu.cn/en/) under Professor [Qi HAO](https://faculty.sustech.edu.cn/?tagid=haoq&iscss=1&snapid=1&orderby=date&go=2&lang=en)<br>
-Software Developer at [Techo Startup Center](https://tsc.gov.kh/)<br>
-Reach me via **[layheng.hok@tsc.gov.kh](mailto:layheng.hok@tsc.gov.kh)**
+CompSci graduate from <a href="https://www.sustech.edu.cn/en/" target="_blank" rel="noreferrer">SUSTech</a> under Professor <a href="https://faculty.sustech.edu.cn/?tagid=haoq&iscss=1&snapid=1&orderby=date&go=2&lang=en" target="_blank" rel="noreferrer">Qi HAO</a><br>
+Software Developer at <a href="https://tsc.gov.kh/" target="_blank" rel="noreferrer">Techo Startup Center</a><br>
+Reach me via **<a href="mailto:layheng.hok@tsc.gov.kh" target="_blank" rel="noreferrer">layheng.hok@tsc.gov.kh</a>**
 
 <h3 align="left">● Tech Stack</h3>
 
@@ -193,26 +193,26 @@ Reach me via **[layheng.hok@tsc.gov.kh](mailto:layheng.hok@tsc.gov.kh)**
 
 * SUSTech Projects:
 
-  * [(CS109) Jungle Chess](https://github.com/Layheng-Hok/Jungle-Chess)
-  * [(CS202) RISC-V CPU](https://github.com/Layheng-Hok/RISC-V-CPU)
-  * [(CS207) Digital Piano](https://github.com/Layheng-Hok/Digital-Piano)
-  * [(CS209A) QQ Farm](https://github.com/Layheng-Hok/QQ-Farm)
-  * [(CS209A) StackOverflow Java Stats](https://github.com/Layheng-Hok/StackOverflow-Java-Stats)
-  * [(CS302) xv6-signal-handling](https://github.com/Layheng-Hok/xv6-signal-handling)
-  * [(CS303) Information Exposure Maximization Problem](https://github.com/Layheng-Hok/Information-Exposure-Maximization)
-  * [(CS304) PeakForm](https://github.com/Jouwy/Peakform)
-  * [(CS303) Knowledge Graph-Based Recommender System](https://github.com/Layheng-Hok/KG-Based-Recommender-System)
-  * [(CS307) Shenzhen Metro](https://github.com/Layheng-Hok/Shenzhen-Metro)
-  * [(CS309) SUSSYCourses](https://github.com/Layheng-Hok/SUSSYCourses)
-  * [(CS310) LLM Detective](https://github.com/Layheng-Hok/LLM-Detective)
-  * [(CS324) jetson-nano-drowsiness-detection](https://github.com/Layheng-Hok/jetson-nano-drowsiness-detection)
-  * [(CS328) SUSTech Merch Store](https://github.com/Layheng-Hok/SUSTech-Merch-Store)
-  * [(CS491) SAFE: Spatial-temporal Adaptation in Federated Environments for CAV Accident Anticipation under Heterogeneity](https://github.com/Layheng-Hok/SAFE)
+  * <a href="https://github.com/Layheng-Hok/Jungle-Chess" target="_blank" rel="noreferrer">(CS109) Jungle Chess</a>
+  * <a href="https://github.com/Layheng-Hok/RISC-V-CPU" target="_blank" rel="noreferrer">(CS202) RISC-V CPU</a>
+  * <a href="https://github.com/Layheng-Hok/Digital-Piano" target="_blank" rel="noreferrer">(CS207) Digital Piano</a>
+  * <a href="https://github.com/Layheng-Hok/QQ-Farm" target="_blank" rel="noreferrer">(CS209A) QQ Farm</a>
+  * <a href="https://github.com/Layheng-Hok/StackOverflow-Java-Stats" target="_blank" rel="noreferrer">(CS209A) StackOverflow Java Stats</a>
+  * <a href="https://github.com/Layheng-Hok/xv6-signal-handling" target="_blank" rel="noreferrer">(CS302) xv6-signal-handling</a>
+  * <a href="https://github.com/Layheng-Hok/Information-Exposure-Maximization" target="_blank" rel="noreferrer">(CS303) Information Exposure Maximization Problem</a>
+  * <a href="https://github.com/Jouwy/Peakform" target="_blank" rel="noreferrer">(CS304) PeakForm</a>
+  * <a href="https://github.com/Layheng-Hok/KG-Based-Recommender-System" target="_blank" rel="noreferrer">(CS303) Knowledge Graph-Based Recommender System</a>
+  * <a href="https://github.com/Layheng-Hok/Shenzhen-Metro" target="_blank" rel="noreferrer">(CS307) Shenzhen Metro</a>
+  * <a href="https://github.com/Layheng-Hok/SUSSYCourses" target="_blank" rel="noreferrer">(CS309) SUSSYCourses</a>
+  * <a href="https://github.com/Layheng-Hok/LLM-Detective" target="_blank" rel="noreferrer">(CS310) LLM Detective</a>
+  * <a href="https://github.com/Layheng-Hok/jetson-nano-drowsiness-detection" target="_blank" rel="noreferrer">(CS324) jetson-nano-drowsiness-detection</a>
+  * <a href="https://github.com/Layheng-Hok/SUSTech-Merch-Store" target="_blank" rel="noreferrer">(CS328) SUSTech Merch Store</a>
+  * <a href="https://github.com/Layheng-Hok/SAFE" target="_blank" rel="noreferrer">(CS491) SAFE: Spatial-temporal Adaptation in Federated Environments for CAV Accident Anticipation under Heterogeneity</a>
 
 * Open Source and Other Projects:
 
-  * [WindowPet](https://github.com/SeakMengs/WindowPet)
-  * [Anime D. Store](https://github.com/Layheng-Hok/Anime-Shopping-Website)
+  * <a href="https://github.com/SeakMengs/WindowPet" target="_blank" rel="noreferrer">WindowPet</a>
+  * <a href="https://github.com/Layheng-Hok/Anime-Shopping-Website" target="_blank" rel="noreferrer">Anime D. Store</a>
 
 </details>
 
@@ -233,7 +233,7 @@ Reach me via **[layheng.hok@tsc.gov.kh](mailto:layheng.hok@tsc.gov.kh)**
 </p>
 
 <p align="right">
-  <a href="#top">
+  <a href="#top" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?label&message=^&color=563d7c&style=for-the-badge&logo" alt="Back to Top" />
   </a>
 </p>
