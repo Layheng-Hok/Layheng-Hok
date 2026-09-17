@@ -20,7 +20,7 @@ Reach me via **<a href="mailto:layheng.hok@tsc.gov.kh" target="_blank" rel="nore
 
 <h4>Languages & Systems Programming</h4>
 <p align="left">
-  <a href="https://riscv.org/" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/RISC-V" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="risc-v" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
